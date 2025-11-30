@@ -31,7 +31,7 @@ const Compliance: React.FC = () => {
             <div className="p-4 bg-slate-50 rounded-lg text-sm text-slate-700">
                <strong className="block mb-1">Organization Details:</strong>
                Fndly Care is the funding entity for this website and associated advertisements. <br/>
-               <strong>Physical Address:</strong> H.No 1-100, Main Market Road, Jannaram, Mancherial District, Telangana, 504205, India.
+               <strong>Physical Address:</strong> H.no 2-211, Morriguda, Jannaram,Hyderabad, Telangana, 504205, India.
                <br/><strong>Contact:</strong> support@fndlycare.com | +91-7993984190
             </div>
           </div>
