@@ -73,7 +73,7 @@ const App: React.FC = () => {
                     </div>
                     <div className="flex items-center">
                       <CheckCircle className="w-5 h-5 text-brand-teal mr-3" />
-                      <span className="text-slate-800 font-medium">Ad Sponsor: <span className="font-bold">Fndly Care (Paid for by Fndly Care)</span></span>
+                      <span className="text-slate-800 font-medium">Ad Sponsor: <span className="font-bold">Fndly Care (Paid by Fndly Care)</span></span>
                     </div>
                   </div>
                 </div>
