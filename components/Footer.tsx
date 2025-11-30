@@ -19,8 +19,8 @@ const Footer: React.FC = () => {
               <li><strong>Phone:</strong> +91-7993984190</li>
               <li className="leading-relaxed">
                 <strong>Registered Address:</strong><br/>
-                H.No 1-100, Main Market Road,<br/>
-                Jannaram, Mancherial District,<br/>
+                H.no 2-211, Morriguda,<br/>
+                Jannaram, Hyderabad,<br/>
                 Telangana, 504205, India
               </li>
             </ul>
