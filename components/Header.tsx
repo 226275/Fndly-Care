@@ -7,7 +7,7 @@ const Header: React.FC = () => {
   const [isOpen, setIsOpen] = useState(false);
 
   const navItems: NavItem[] = [
-    { label: 'Home', path: '#' },
+    { label: 'Home', path: 'top' },
     { label: 'Leadership', path: '#leadership' },
     { label: 'Services', path: '#services' },
     { label: 'Compliance', path: '#compliance' },
@@ -18,7 +18,7 @@ const Header: React.FC = () => {
     const element = document.querySelector(path);
     if (element) {
       element.scrollIntoView({ behavior: 'smooth' });
-    } else if (path === '#') {
+    } else if (path === 'top') {
        window.scrollTo({ top: 0, behavior: 'smooth' });
     }
   };
