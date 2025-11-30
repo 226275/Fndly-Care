@@ -190,7 +190,7 @@ const App: React.FC = () => {
                  </div>
                  <div className="flex items-start text-gray-700">
                    <span className="font-bold w-24 flex-shrink-0">Phone:</span>
-                   <span>+91-9876543210</span>
+                   <span>+91-7993984190</span>
                  </div>
                  <div className="flex items-start text-gray-700">
                    <span className="font-bold w-24 flex-shrink-0">Address:</span>
