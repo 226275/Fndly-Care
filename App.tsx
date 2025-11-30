@@ -18,8 +18,8 @@ const App: React.FC = () => {
         <section id="leadership" className="py-24 bg-white scroll-mt-20">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="text-center mb-16">
-               <h2 className="text-3xl font-display font-bold text-slate-900 mb-4">Leadership & Vision</h2>
-               <div className="w-16 h-1 bg-brand-teal mx-auto rounded"></div>
+          <h2 className="text-3xl font-display font-bold text-slate-900 mb-4">Leadership & Vision</h2>
+          <div className="w-16 h-1 bg-brand-teal mx-auto rounded"></div>
             </div>
 
             <div className="flex flex-col md:flex-row items-center gap-12 lg:gap-20">
@@ -55,7 +55,7 @@ const App: React.FC = () => {
                     With a deep commitment to public service, Jakku Bhoomesh has been nominated for the <strong>Sarpanch elections in Jannaram</strong>. He aims to bring the same level of dedication, transparency, and care to village administration that he has established at Fndly Care.
                   </p>
                   <p>
-                     He is the <strong>main pillar</strong> of the Fndly Care initiative, ensuring that our services reach those in need while upholding the highest standards of integrity. Whether it is ensuring the health of your pets or working towards the development of Jannaram, Jakku Bhoomesh stands for progress and friendly service.
+                    He is the <strong>main pillar</strong> of the Fndly Care initiative, ensuring that our services reach those in need while upholding the highest standards of integrity. Whether it is ensuring the health of your pets or working towards the development of Jannaram, Jakku Bhoomesh stands for progress and friendly service.
                   </p>
                 </div>
 
@@ -68,12 +68,12 @@ const App: React.FC = () => {
                       <span className="text-slate-800 font-medium">Candidate: <span className="font-bold">Jakku Bhoomesh</span></span>
                     </div>
                     <div className="flex items-center">
-                       <CheckCircle className="w-5 h-5 text-brand-teal mr-3" />
-                       <span className="text-slate-800 font-medium">Contesting For: <span className="font-bold">Sarpanch, Jannaram</span></span>
+                      <CheckCircle className="w-5 h-5 text-brand-teal mr-3" />
+                      <span className="text-slate-800 font-medium">Contesting For: <span className="font-bold">Sarpanch, Jannaram</span></span>
                     </div>
                     <div className="flex items-center">
-                       <CheckCircle className="w-5 h-5 text-brand-teal mr-3" />
-                       <span className="text-slate-800 font-medium">Ad Sponsor: <span className="font-bold">Fndly Care (Paid for by Fndly Care)</span></span>
+                      <CheckCircle className="w-5 h-5 text-brand-teal mr-3" />
+                      <span className="text-slate-800 font-medium">Ad Sponsor: <span className="font-bold">Fndly Care (Paid for by Fndly Care)</span></span>
                     </div>
                   </div>
                 </div>
