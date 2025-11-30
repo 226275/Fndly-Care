@@ -194,7 +194,7 @@ const App: React.FC = () => {
                  </div>
                  <div className="flex items-start text-gray-700">
                    <span className="font-bold w-24 flex-shrink-0">Address:</span>
-                   <span>H.No 1-100, Main Market Road, Jannaram, Mancherial District, Telangana, 504205, India</span>
+                   <span>H.no 2-211, Morriguda, Jannaram, Hyderabad, Telangana, 504205, India.</span>
                  </div>
                </div>
                <div className="mt-8 text-center">
